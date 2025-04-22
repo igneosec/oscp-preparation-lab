@@ -6,8 +6,8 @@ Incluye writeups OSCP-style, notas, y recursos estructurados a medida que avanzo
 ---
 
 📅 Inicio: abril 2025  
-🔍 Enfoque: explotación, escalada de privilegios, pivoting y post-explotación realista
+🔍 Enfoque: explotación, escalada de privilegios, pivoting y post-explotación.
 
 ---
 
-🔥 “igneosec” viene de *ígneo*: el fuego, que me impulsa cada día a ser mejor
+🔥 “igneosec” viene de *ígneo*: el fuego, que me impulsa cada día a ser mejor.
