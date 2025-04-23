@@ -36,7 +36,7 @@ El fuego que me impulsa a ser mejor y a avanzar cada dia.
 
 | Herramienta | Descripción                         | Enlace                            |
 |-------------|-------------------------------------|-----------------------------------|
-| Nmap        | Escaneos básicos OSCP-style         | _Pendiente_                       |
+| Nmap        | Escaneos básicos OSCP-style         | [Ver cheatsheet](Cheatsheets/Nmap.md)                     |
 | Linux PrivEsc | Enumeración y escalada en Linux   | _Pendiente_                       |
 | SMB         | Enumeración y explotación de SMB    | _Pendiente_                       |
 
