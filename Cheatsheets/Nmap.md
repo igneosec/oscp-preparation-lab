@@ -1,4 +1,4 @@
-# 🛰️ Cheatsheet Nmap - OSCP Style
+# 🛰️ Cheatsheet Nmap
 
 Este cheatsheet recoge los comandos que más utilizo en Nmap para la fase de reconocimiento.
 ---
