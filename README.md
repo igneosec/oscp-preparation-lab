@@ -17,17 +17,16 @@ El fuego que me impulsa a ser mejor y a avanzar cada dia.
 
 ## 🗂️ Estructura del repositorio
 
-📁 /Templates/         → Plantillas OSCP-style reutilizables  
-📁 /Cheatsheets/       → Recursos técnicos rápidos (Nmap, PrivEsc, etc.)  
-📁 /01-Blue/           → Writeup de máquina completada  
-📁 /02-.../            → (Próxima máquina)  
-📄  README.md          → Este archivo  
+📁 /Templates/ → Plantillas OSCP-style reutilizables  
+📁 /Cheatsheets/ → Recursos técnicos rápidos (Nmap, PrivEsc, etc.)  
+📁 /Machines/ → Writeups de máquinas completadas  
+📝 README.md → Este archivo  
 
 ### ✅ Máquinas completadas
 
 | Nº | Nombre | Plataforma | Nivel | Enlace           |
 |----|--------|------------|-------|------------------|
-| 01 | Blue   | TryHackMe  | Fácil | [Ir al writeup](./01-Blue/README.md) |
+| 01 | Blue   | TryHackMe  | Fácil | [Ir al writeup](./Machines/01-Blue/README.md) |
 
 
 
