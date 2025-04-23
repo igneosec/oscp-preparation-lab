@@ -1,7 +1,6 @@
 # 🛰️ Cheatsheet Nmap - OSCP Style
 
-Este cheatsheet recoge los comandos más utilizados en Nmap para la fase de reconocimiento en pruebas ofensivas, adaptados al estilo OSCP.
-
+Este cheatsheet recoge los comandos que más utilizo en Nmap para la fase de reconocimiento.
 ---
 
 ## 🔍 Escaneos básicos
