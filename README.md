@@ -27,6 +27,7 @@ El fuego que me impulsa a ser mejor y a avanzar cada dia.
 | Nº | Nombre | Plataforma | Nivel | Enlace           |
 |----|--------|------------|-------|------------------|
 | 01 | Blue   | TryHackMe  | Fácil | [Ir al writeup](./Machines/01-Blue/README.md) |
+| 02 | Overpass | TryHackMe  | Fácil | [Ir al writeup](./Machines/02-Overpass/README.md) |
 
 
 
