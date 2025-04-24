@@ -57,7 +57,7 @@ gobuster dir -u http://10.10.133.101/ -w /usr/share/wordlists/dirb/common.txt -x
 - ❌ Estudiamos el binario y el código: emplea ROT47 para cifrar credenciales guardadas en `~/.overpass`. Sin acceso al fichero real en la máquina víctima, no fue útil.
 - ✅ Durante el análisis del código fuente, detectamos que el usuario "james" aparece en rutas del entorno de desarrollo (`/mnt/c/Users/James/...`) y dentro de cadenas relacionadas con el uso del programa, deduciendo que probablemente fuese un usuario del sistema.
 - ✅ También identificamos los archivos JS `login.js` y `cookie.js`. Observamos que el token `SessionToken` se setea en cliente al autenticar, pero **no se valida en el backend**.
-- ✅ Esto nos permitió falsificar la autenticación con una cookie arbitraria:
+- ✅ Esto nos permite falsificar la autenticación con una cookie arbitraria:
 
 ```bash
 curl -L -s -b "SessionToken=valor_cualquiera" http://10.10.133.101/admin
